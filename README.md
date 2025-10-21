@@ -70,7 +70,7 @@ I’m a passionate developer and artist who loves blending **creativity with tec
 
 ### 🧩 A Few Fun Facts
 
-- ⚡ I have a **peak bullet rating of 2568** — yes, I’ve blundered queens at lightning speed.  
+- ⚡ I have a **peak bullet rating of 2568** on Chess.com — yes, I’ve blundered queens at lightning speed.  
 - 🖌️ I started as a fine artist before I ever wrote a line of code.  
 - ☕ Powered by **coffee**, **classical music**, and **endgame puzzles**.  
 
@@ -87,8 +87,12 @@ I’m a passionate developer and artist who loves blending **creativity with tec
     <img src="https://img.shields.io/badge/LinkedIn-Chris%20Yoko-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
-  <a href="https://lichess.org/@/YOUR-LICHESS-HANDLE" target="_blank">
+    <a href="https://lichess.org/@/BoredProgrammer" target="_blank">
     <img src="https://img.shields.io/badge/Lichess-Profile-black?style=for-the-badge&logo=lichess" />
+  </a>
+  &nbsp;
+  <a href="https://www.chess.com/member/brainslain" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-Profile-green?style=for-the-badge&logo=chess.com" />
   </a>
 </p>
 
